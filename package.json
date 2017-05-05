@@ -1,0 +1,16 @@
+{
+  "name": "chatapp-react",
+  "dependencies": {
+    "socket.io": "~1.3.4",
+    "express": "~4.11.2",
+    "mongodb": "^2.2.26"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Chat app with Reactjs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "LongLH7",
+  "license": "ISC"
+}
