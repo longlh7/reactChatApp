@@ -1,2 +1,1 @@
-npm i
-node server.js
+just run node server.js
